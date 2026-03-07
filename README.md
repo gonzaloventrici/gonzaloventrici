@@ -1,6 +1,6 @@
 # Hi there, I'm Gonzalo! 👋
 
-##I'm a **Software Development Student** currently in my second year, focused on building efficient solutions and mastering data management.
+I'm a **Software Development Student** currently in my second year, focused on building efficient solutions and mastering data management.
 
 - 🔭 I’m currently working on: Academic projects at **UNSAM** and personal scripts in **Python**.
 - 🌱 I’m currently learning: Advanced **SQL** queries and professional **Git** workflows.
