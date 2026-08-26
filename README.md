@@ -2,23 +2,23 @@
 
 I'm a Software Development Student currently in my second year, focused on building efficient solutions and mastering data management.
 
-* 🔭 I’m currently working on: Academic projects at UNSAM and personal scripts in Python.
-* 🌱 I’m currently learning: Advanced SQL queries and professional Git workflows.
-* 💬 Ask me about: Python logic, database structures, or my experience in high-impact sales.
-* 📫 How to reach me: Gonzaloventrici@gmail.com
-
+* 🔭 I’m currently working on: Academic projects at UNSAM and personal.
 ### 🌐 Connect with me:
-<p>
-  <a href="mailto:gonzaloventrici@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+
+<!-- Iconos de redes sociales planos y centrados -->
+<p align="center">
+  <a href="mailto:Gonzaloventrici@gmail.com">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/gmail.svg" alt="Gmail" height="30" width="30" style="filter: invert(1);">
   </a>
-  <a href="https://linkedin.com/in/gonzaloventrici" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  &nbsp;&nbsp; 
+  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/linkedin.svg" alt="LinkedIn" height="30" width="30" style="filter: invert(1);">
   </a>
 </p>
 
 ### 🚀 Tech Stack & Skills:
 
+<!-- Bloque corregido de Skill Icons para tema oscuro -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?id=python,sql,mysql,git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=python,sql,mysql,git,github,vscode,postman,docker" />
 </a>
