@@ -6,8 +6,8 @@ I'm a Software Development Student currently in my second year, focused on build
 
 ### 🌐 Connect with me:
 
-Email: [Gonzaloventrici@gmail.com](mailto:Gonzaloventrici@gmail.com)
-LinkedIn: [in/tu-usuario-linkedin](https://linkedin.com/in/tu-usuario-linkedin)
+Email: [Gonzaloventrici@gmail.com](mailto:Gonzaloventrici@gmail.com)  
+LinkedIn: [in/tu-usuario-linkedin](https://linkedin.com/in/gonzaloventrici)
 
 ### 🚀 Tech Stack & Skills:
 
