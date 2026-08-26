@@ -6,14 +6,8 @@ I'm a Software Development Student currently in my second year, focused on build
 
 ### 🌐 Connect with me:
 
-<p>
-  <a href="mailto:Gonzaloventrici@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com/in/gonzaloventrici" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+Email: [Gonzaloventrici@gmail.com](mailto:Gonzaloventrici@gmail.com)
+LinkedIn: [in/tu-usuario-linkedin](https://linkedin.com/in/tu-usuario-linkedin)
 
 ### 🚀 Tech Stack & Skills:
 
