@@ -12,5 +12,5 @@ LinkedIn: [Gonzalo Ventrici](https://linkedin.com/in/gonzaloventrici)
 ### 🚀 Tech Stack & Skills:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,java,html" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,vscode,java,html" />
 </a>
