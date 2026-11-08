@@ -7,7 +7,7 @@ I'm a Software Development Student currently in my second year, focused on build
 ### 🚀 Tech Stack & Skills:
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,vscode,java,html,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,git,github,vscode,java,html,postman,springboot" />
 </a>
 
 ## 📫 Contacto:
